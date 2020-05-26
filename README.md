@@ -1,6 +1,7 @@
 
 # Pierwsza wersja aplikacji e-lekcje
 ### Wersja 1.0.1
+[Pobierz] (https://github.com/danzym509/e-lekcje/raw/master/e-lekcje-1.0.1.apk)
 
  - Naprawiono odczytywanie wtorku jako środy
  - Dodano informacje o braku lekcji
