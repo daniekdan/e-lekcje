@@ -1,7 +1,13 @@
 
 # Pierwsza wersja aplikacji e-lekcje
+[Kliknij tutaj, aby pobrać najnowszą wersję](https://github.com/danzym509/e-lekcje/raw/master/e-lekcje-1.1.0.apk)
+### Wersja 1.1.0
+- Naprawiono zera
+- Dodano informację o przerwie
+- Dodano opcję zmiany koloru tła, tekstu oraz obręczy zegara
+- Dodano dzwonek na koniec przerwy/lekcji
+- Małe poprawki w kodzie
 ### Wersja 1.0.1
-[Pobierz] (https://github.com/danzym509/e-lekcje/raw/master/e-lekcje-1.0.1.apk)
 
  - Naprawiono odczytywanie wtorku jako środy
  - Dodano informacje o braku lekcji
@@ -10,7 +16,6 @@
  - Nie zsynchronizowane sekundy
  - Czasem zegarek może być "ściśnięty"
  - ProgressBar nie działa
- - Sekundy poniżej dziesięciu nie mają zera (np. 03)
 #
 
 © Daniel Żymek 2020
